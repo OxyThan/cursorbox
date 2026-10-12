@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "akane",
+      "name": "Акане",
+      "version": "1.1.0",
+      "url": "packs/akane-1.1.0.zip",
+      "sha256": "129d4910aa48ced0e02be4efcc224342eb734ef69de4b9ed459de460b05d9745",
+      "size": 33026
+    },
+    {
+      "id": "cirno",
+      "name": "Чирно",
+      "version": "1.1.0",
+      "url": "packs/cirno-1.1.0.zip",
+      "sha256": "a6585e7b48ad0668585a8ae3fdc6251b242b1d64d7e0c84647a8beb29dd5e5ea",
+      "size": 35471
+    },
+    {
+      "id": "marisa",
+      "name": "Мариса Кирисаме",
+      "version": "1.1.0",
+      "url": "packs/marisa-1.1.0.zip",
+      "sha256": "25807cd0e93e082bb0862e10a14242fe8f15c31385aeac9196dbddac2c4d774c",
+      "size": 37930
+    },
+    {
+      "id": "marisa-broom",
+      "name": "Мариса Кирисаме (метла)",
+      "version": "1.1.0",
+      "url": "packs/marisa-broom-1.1.0.zip",
+      "sha256": "d491ceed5c927dfea59fa6cefd6469f643b9d5ae554076c548bc4bb43a7fc850",
+      "size": 25867
+    },
+    {
+      "id": "reimu",
+      "name": "Рейму Хакурей",
+      "version": "1.2.0",
+      "url": "packs/reimu-1.2.0.zip",
+      "sha256": "bfc4a617770c25dca941613be588865e57b4664465a7164b57a552bf89467dca",
+      "size": 23192
+    }
+  ]
+}
