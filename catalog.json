@@ -12,10 +12,10 @@
     {
       "id": "bee",
       "name": "Пчёлка",
-      "version": "1.0.0",
-      "url": "packs/bee-1.0.0.zip",
-      "sha256": "2c0d0e2da5722bcf3dd656faec8c8d4613971eb04b2e83dacfa5c6a5edd55477",
-      "size": 462751
+      "version": "1.1.0",
+      "url": "packs/bee-1.1.0.zip",
+      "sha256": "be3c7c4011236aeccf903d9a175cefa93e2ce36fcbe63c9bb9ac2f468df4c9ca",
+      "size": 451768
     },
     {
       "id": "bird",
@@ -108,10 +108,10 @@
     {
       "id": "spirit",
       "name": "Дух",
-      "version": "1.0.0",
-      "url": "packs/spirit-1.0.0.zip",
-      "sha256": "247a36ee84939bf7d0de2132048d2580b7bc7fe17ca10c712d1af46153450fca",
-      "size": 494654
+      "version": "1.1.0",
+      "url": "packs/spirit-1.1.0.zip",
+      "sha256": "db56c32754da37b4551e33313dbe6d49dac6efeb80c0e65d84f019d987006fa4",
+      "size": 496907
     },
     {
       "id": "turtle",
