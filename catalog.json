@@ -4,42 +4,130 @@
     {
       "id": "akane",
       "name": "Акане",
-      "version": "1.1.0",
-      "url": "packs/akane-1.1.0.zip",
-      "sha256": "129d4910aa48ced0e02be4efcc224342eb734ef69de4b9ed459de460b05d9745",
-      "size": 33026
+      "version": "1.6.0",
+      "url": "packs/akane-1.6.0.zip",
+      "sha256": "0bd8ba9311b9983f0ad2865ebad7634ed1888a821efb4eba8c9fd04db34dc086",
+      "size": 311828
+    },
+    {
+      "id": "bee",
+      "name": "Пчёлка",
+      "version": "1.0.0",
+      "url": "packs/bee-1.0.0.zip",
+      "sha256": "2c0d0e2da5722bcf3dd656faec8c8d4613971eb04b2e83dacfa5c6a5edd55477",
+      "size": 462751
+    },
+    {
+      "id": "bird",
+      "name": "Птичка",
+      "version": "1.3.0",
+      "url": "packs/bird-1.3.0.zip",
+      "sha256": "82f827e71ffb8813b6cf565859b447b2f91d724d97e3fb384015230aa96af36b",
+      "size": 254535
+    },
+    {
+      "id": "cat",
+      "name": "Котик",
+      "version": "1.3.0",
+      "url": "packs/cat-1.3.0.zip",
+      "sha256": "258342d6ee4aa168d5008052232d143eb2cbd2fec06d28afe8598a27903fdca5",
+      "size": 302673
     },
     {
       "id": "cirno",
       "name": "Чирно",
-      "version": "1.1.0",
-      "url": "packs/cirno-1.1.0.zip",
-      "sha256": "a6585e7b48ad0668585a8ae3fdc6251b242b1d64d7e0c84647a8beb29dd5e5ea",
-      "size": 35471
+      "version": "1.2.0",
+      "url": "packs/cirno-1.2.0.zip",
+      "sha256": "7201580d1f22fefcbafb1a32199f1b7f2395d743fa4115a537fc6524f09806e9",
+      "size": 285997
+    },
+    {
+      "id": "cloud",
+      "name": "Облачко",
+      "version": "1.3.0",
+      "url": "packs/cloud-1.3.0.zip",
+      "sha256": "dc66faccb0f414a9716c86577205edcd0a0bfe5b941af65ed7eee3e8e091dd66",
+      "size": 286815
+    },
+    {
+      "id": "dog",
+      "name": "Собачка",
+      "version": "1.3.0",
+      "url": "packs/dog-1.3.0.zip",
+      "sha256": "f77b117a9e6dbb43784e3d5bfd8763ad6cc8cacf24ca6491b4d5cfbab80712d9",
+      "size": 269529
+    },
+    {
+      "id": "fox",
+      "name": "Лисёнок",
+      "version": "1.3.0",
+      "url": "packs/fox-1.3.0.zip",
+      "sha256": "52e631f54362c30690f68fdfd92e389fdcc3bd34edbe64b959e60009d2148419",
+      "size": 324275
     },
     {
       "id": "marisa",
       "name": "Мариса Кирисаме",
-      "version": "1.1.0",
-      "url": "packs/marisa-1.1.0.zip",
-      "sha256": "25807cd0e93e082bb0862e10a14242fe8f15c31385aeac9196dbddac2c4d774c",
-      "size": 37930
+      "version": "1.2.0",
+      "url": "packs/marisa-1.2.0.zip",
+      "sha256": "acde3839c89817059f4c2aa2465ad3c8eba56d285c3d153e162d0b83dfb58ee9",
+      "size": 345201
     },
     {
       "id": "marisa-broom",
       "name": "Мариса Кирисаме (метла)",
-      "version": "1.1.0",
-      "url": "packs/marisa-broom-1.1.0.zip",
-      "sha256": "d491ceed5c927dfea59fa6cefd6469f643b9d5ae554076c548bc4bb43a7fc850",
-      "size": 25867
+      "version": "1.2.0",
+      "url": "packs/marisa-broom-1.2.0.zip",
+      "sha256": "f69e1889b690b9de16661013e6908750bbfcfe7b30f6c4b0cc2f43b5967c8634",
+      "size": 221237
+    },
+    {
+      "id": "pony",
+      "name": "Пони",
+      "version": "1.3.0",
+      "url": "packs/pony-1.3.0.zip",
+      "sha256": "6e5db5fafdb9f7cd2db4ab5d643ebe52039d949fa8970657c66dc354a09f77b2",
+      "size": 358290
+    },
+    {
+      "id": "rabbit",
+      "name": "Кролик",
+      "version": "1.3.0",
+      "url": "packs/rabbit-1.3.0.zip",
+      "sha256": "c60e283b12a539ad3d846749d975a78aeda36e592529ea028a67bb42bfbd2ba3",
+      "size": 249852
     },
     {
       "id": "reimu",
       "name": "Рейму Хакурей",
+      "version": "1.3.0",
+      "url": "packs/reimu-1.3.0.zip",
+      "sha256": "8f7e507f4c519aeea19747913d1aa405fb8cc46ed4bd4dc998c282d032e5ccf7",
+      "size": 176194
+    },
+    {
+      "id": "spirit",
+      "name": "Дух",
+      "version": "1.0.0",
+      "url": "packs/spirit-1.0.0.zip",
+      "sha256": "247a36ee84939bf7d0de2132048d2580b7bc7fe17ca10c712d1af46153450fca",
+      "size": 494654
+    },
+    {
+      "id": "turtle",
+      "name": "Черепашка",
+      "version": "1.3.0",
+      "url": "packs/turtle-1.3.0.zip",
+      "sha256": "81bb473f4c32fac22fee0fa70d67facbe87353f2877fef1900dce57c8d5b4140",
+      "size": 339801
+    },
+    {
+      "id": "vzhuh",
+      "name": "Кот ВЖЖУХ",
       "version": "1.2.0",
-      "url": "packs/reimu-1.2.0.zip",
-      "sha256": "bfc4a617770c25dca941613be588865e57b4664465a7164b57a552bf89467dca",
-      "size": 23192
+      "url": "packs/vzhuh-1.2.0.zip",
+      "sha256": "76d7a232c03a65905b080b4d28e35616ab45f08649afd0850b7a9bde940d60bf",
+      "size": 841486
     }
   ]
 }
